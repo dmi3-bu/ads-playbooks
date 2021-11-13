@@ -1,0 +1,14 @@
+[db]
+x.x.x.x
+
+[rabbitmq]
+x.x.x.x
+
+[nginx]
+x.x.x.x
+
+[app]
+x.x.x.x
+
+[elk]
+x.x.x.x
